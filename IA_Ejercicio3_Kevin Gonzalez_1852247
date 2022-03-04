@@ -1,0 +1,7 @@
+lista = ["Hola  ", "buen  ", "dia ", "como   ", "estas ", "el   ", "dia  ", "de  ", "hoy?  "]
+def marco(): 
+ print("*********")
+marco()
+for x in lista:
+ print("* " + x + " *") 
+marco() 
